@@ -1,2 +1,2 @@
 # Pathway-Assignments
-This is a practice of a Computer Science course.
+This is a practice of the Intro to Computer Science course.
